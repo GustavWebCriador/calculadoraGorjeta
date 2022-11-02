@@ -34,7 +34,7 @@ Projeto desenvolvido para ser uma experiência ao usuário no qual pode calcular
 
 ## 🔖 Layout
 
-você pode visualizar cliclando nesse link a seguir: Veja o projeto
+você pode visualizar cliclando nesse link a seguir: [Veja o projeto](https://calculadoragorjetas.vercel.app/)
 
 ## 🌎 Linkedin
 Você pode me encontrar no Linkedin, acesse meu perfil [Linkedin](https://www.linkedin.com/in/gustavo-luiz-medeiros/)
