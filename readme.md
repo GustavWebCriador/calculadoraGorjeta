@@ -41,4 +41,4 @@ Você pode me encontrar no Linkedin, acesse meu perfil [Linkedin](https://www.li
 
 ---
 
-Feito com ♥  Gustavo Luiz Medeiros 📱 [WhatsApp, aguardo seu contato]( contate.me/gustavowebcriador)
+Feito com ♥  Gustavo Luiz Medeiros 📱 [WhatsApp, aguardo seu contato](https://api.whatsapp.com/send?phone=5547984265359&text=)
